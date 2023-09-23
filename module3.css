@@ -3,7 +3,6 @@
   background-color: grey;
 
 }
-  
     .collapsable-nav{
       background-color: white;
       padding: 0;
@@ -45,24 +44,16 @@
   line-height: 8px
 } */
 
-
-.container-fluid .main-title{
-  text-align:center;
-}
-
 .menu-item{
   background-color: grey;
   border: 1px black;
   text-align: center;
-  
 }
 
 .collapsable-nav{
   background-color: white;
   border-bottom: 1px black;
 }
-
-  
 
   .container-fluid{ 
     width: 80%;
